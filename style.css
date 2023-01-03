@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+body{
+  background-image: linear-gradient(to right top, #de6c1a, #ed4c44, #eb316e, #d63098, #a946bd, #8960d5, #5e75e5, #0086ed, #009dee, #00accb, #00b590, #35b74d);
+ 
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    padding: 70px 100px 70px 100px;
+    font-size: 20vh;
+    line-height:25vh;
+    color: #f1f5f7;
+    text-shadow: 3px 5px 2px #474747;
+    font-family:'Alegreya', serif;
+    text-align: center;
+   
+}
